@@ -54,6 +54,10 @@ export const Navbar: React.FC = () => {
             alt="PT Fish Modern Success Logo"
             className="h-12 w-auto"
           />
+          <div className="leading-tight">
+            <span className="block text-white font-display font-bold uppercase tracking-wider text-sm">PT Fish</span>
+            <span className="block text-white/80 font-display font-semibold uppercase tracking-wider text-xs">Modern Success</span>
+          </div>
         </div>
 
         <div className="hidden md:flex items-center space-x-8">

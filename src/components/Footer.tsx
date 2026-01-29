@@ -23,11 +23,16 @@ export const Footer: React.FC = () => {
 
           {/* Brand */}
           <div className="space-y-6">
-            <div className="flex items-center gap-2 mb-4">
-              <div className="bg-brand-green p-1">
-                <Anchor className="text-brand-dark w-5 h-5" />
+            <div className="flex items-center gap-3 mb-4">
+              <img
+                src="/logoabang.svg"
+                alt="PT Fish Modern Success Logo"
+                className="h-12 w-auto"
+              />
+              <div className="leading-tight">
+                <span className="block text-white font-display font-bold uppercase tracking-wider text-lg">PT Fish</span>
+                <span className="block text-white/80 font-display font-semibold uppercase tracking-wider text-base">Modern Success</span>
               </div>
-              <h3 className="font-display font-bold text-2xl uppercase">PT Fish <br /> Modern Success</h3>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed">
               {t('brandDesc')}
@@ -73,17 +78,6 @@ export const Footer: React.FC = () => {
               <input type="email" placeholder={t('emailPlaceholder')} className="bg-gray-800 border-none outline-none text-white px-4 py-2 w-full text-sm" />
               <button className="bg-brand-green text-brand-dark px-4 font-bold hover:bg-white transition-colors">OK</button>
             </div>
-          </div>
-        </div>
-
-        <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center">
-          <p className="text-gray-500 text-xs mb-4 md:mb-0">
-            &copy; {new Date().getFullYear()} PT Fish Modern Success. {t('copyright')}.
-          </p>
-          <div className="flex space-x-4">
-            <a href="#" className="text-gray-500 hover:text-brand-green transition-colors"><Instagram className="w-5 h-5" /></a>
-            <a href="#" className="text-gray-500 hover:text-brand-green transition-colors"><Facebook className="w-5 h-5" /></a>
-            <a href="#" className="text-gray-500 hover:text-brand-green transition-colors"><Linkedin className="w-5 h-5" /></a>
           </div>
         </div>
 
