@@ -27,6 +27,12 @@ body {
   background-color: #f7f7f2;
 }
 
+@media (min-width: 768px) {
+  .container {
+    max-width: 80%;
+  }
+}
+
 /* Custom Scrollbar */
 ::-webkit-scrollbar {
   width: 10px;
