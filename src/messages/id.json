@@ -1,0 +1,214 @@
+{
+    "meta": {
+        "title": "PT Fish Modern Success - Pemasok Produk Perikanan Premium",
+        "description": "Pemasok dan eksportir produk perikanan premium Indonesia yang mengkhususkan diri dalam Tuna Beku, Kakap, Kerapu, dan berbagai produk ikan berkualitas ekspor."
+    },
+    "nav": {
+        "home": "Beranda",
+        "about": "Tentang",
+        "products": "Produk",
+        "quality": "Kualitas",
+        "contact": "Kontak",
+        "getQuote": "Get Quote"
+    },
+    "hero": {
+        "welcome": "Selamat Datang di PT Fish Modern Success",
+        "title1": "KAMI EKSPOR",
+        "title2": "PRODUK PERIKANAN PREMIUM",
+        "title3": "KE SELURUH DUNIA",
+        "description": "Mitra terpercaya untuk produk ikan beku berkualitas tinggi. Bersumber dari perairan Indonesia, dikirim ke seluruh dunia.",
+        "ourProducts": "Produk Kami",
+        "contactUs": "Hubungi Kami",
+        "frozenTuna": "TUNA BEKU PREMIUM",
+        "exportQuality": "Kualitas Ekspor - 20kg",
+        "exportCountries": "Negara Tujuan Ekspor",
+        "globalLogistics": "Global Logistics",
+        "wildCaught": "Wild Caught",
+        "marketDriven": "Market Driven"
+    },
+    "about": {
+        "label": "Tentang Perusahaan Kami",
+        "title1": "APA YANG KAMI TAWARKAN",
+        "title2": "UNTUK MITRA BISNIS ANDA",
+        "description": "Perusahaan kami didirikan pada tahun 2025 dengan tujuan untuk berkontribusi dalam pengembangan perdagangan ikan ekspor dari Indonesia ke pasar internasional. Sejak awal berdiri, kami berkomitmen untuk menghadirkan produk perikanan yang berkualitas tinggi, aman, dan memenuhi standar perdagangan global.",
+        "history": "Pada tahun 2026, perusahaan secara resmi terdaftar dan disahkan oleh pemerintah melalui Badan Administrasi Hukum Umum (AHU), sebagai bentuk legalitas dan komitmen kami dalam menjalankan kegiatan usaha secara profesional, transparan, dan sesuai dengan peraturan yang berlaku.",
+        "focus": "Fokus utama perusahaan adalah perdagangan ikan ekspor, baik dalam bentuk segar maupun beku, dengan mengutamakan kualitas produk, ketepatan waktu pengiriman, serta kepuasan pelanggan.",
+        "features": {
+            "legal": {
+                "title": "Legalitas Resmi & Terpercaya",
+                "desc": "Terdaftar dan disahkan oleh Badan AHU, memberikan jaminan keamanan dan kepercayaan bagi mitra bisnis."
+            },
+            "quality": {
+                "title": "Fokus pada Kualitas Produk",
+                "desc": "Seleksi bahan baku yang ketat serta penanganan produk sesuai standar ekspor perikanan."
+            },
+            "network": {
+                "title": "Jaringan Pemasok yang Kuat",
+                "desc": "Bermitra langsung dengan nelayan dan supplier lokal untuk menjaga ketersediaan dan kualitas ikan."
+            },
+            "international": {
+                "title": "Orientasi Pasar Internasional",
+                "desc": "Memahami kebutuhan dan standar pasar global dalam perdagangan ikan ekspor."
+            },
+            "sustainable": {
+                "title": "Komitmen Keberlanjutan",
+                "desc": "Mendukung praktik perikanan yang bertanggung jawab dan berkelanjutan."
+            }
+        }
+    },
+    "products": {
+        "label": "Katalog Kami",
+        "title": "HASIL LAUT PREMIUM",
+        "downloadCatalog": "Download Full Catalog",
+        "items": {
+            "tuna": {
+                "name": "Tuna Beku",
+                "category": "Whole Round / Grade Ekspor",
+                "description": "Tuna beku kualitas premium. Dikemas dan diberi label individual. Siap untuk ekspor internasional."
+            },
+            "snapper": {
+                "name": "Kakap Merah",
+                "category": "Fresh Caught",
+                "description": "Kakap merah berkualitas tinggi. Sempurna untuk dibakar, dikukus, dan digoreng. Standar kualitas ekspor."
+            },
+            "grouper": {
+                "name": "Kerapu",
+                "category": "Grade Premium",
+                "description": "Kerapu segar dengan tekstur daging yang padat. Sangat diminati di pasar Asia. Kualitas restoran."
+            },
+            "parrotfish": {
+                "name": "Ikan Kakatua",
+                "category": "Varietas Segar",
+                "description": "Ikan kakatua warna-warni. Populer dalam masakan Asia Tenggara. Segar dari perairan Indonesia."
+            },
+            "mixed": {
+                "name": "Ikan Segar Campuran",
+                "category": "Pasokan Harian",
+                "description": "Berbagai jenis ikan segar. Sempurna untuk distributor dan pedagang besar. Pasokan harian konsisten."
+            },
+            "deepsea": {
+                "name": "Ikan Laut Dalam",
+                "category": "Stok Beku",
+                "description": "Ikan laut dalam dengan kualitas daging sangat baik. Ideal untuk pasar internasional dan pemrosesan."
+            }
+        }
+    },
+    "vision": {
+        "title": "Visi Kami",
+        "content": "Menjadi perusahaan terpercaya dan berdaya saing global yang unggul, inovatif, dan profesional dalam menyediakan produk berkualitas—khususnya di bidang perdagangan dan perikanan—secara berkelanjutan, transparan, serta berorientasi pada",
+        "highlight": "kepuasan pelanggan dan penciptaan nilai jangka panjang bagi mitra usaha dan perekonomian"
+    },
+    "mission": {
+        "title": "Misi Kami",
+        "items": [
+            "Menyediakan produk perikanan berkualitas premium yang memenuhi standar keamanan pangan internasional.",
+            "Mendukung nelayan lokal melalui kemitraan yang adil dan program pengembangan berkelanjutan.",
+            "Menerapkan metode penangkapan ikan yang bertanggung jawab untuk menjaga ekosistem laut.",
+            "Berinovasi secara terus-menerus dalam logistik cold-chain untuk menjamin kesegaran maksimal."
+        ]
+    },
+    "location": {
+        "title": "Lokasi Kami",
+        "address": "Jalan Ikan Lumba-Lumba, Kelurahan Mayangan, Kota Probolinggo, Provinsi Jawa Timur",
+        "postalCode": "Kode Pos: 67218",
+        "port": "Lokasi Pelabuhan Tanjung Tembaga"
+    },
+    "certificates": {
+        "label": "Jaminan Kualitas",
+        "title": "Sertifikasi Resmi",
+        "subtitle": "Kami berkomitmen untuk menjaga standar kualitas dan keamanan pangan tertinggi dalam semua operasi kami.",
+        "officialCert": "SERTIFIKASI RESMI",
+        "clickEnlarge": "Click to Enlarge",
+        "viewFull": "Lihat Penuh",
+        "download": "Unduh",
+        "qualityTitle": "Kualitas & Keamanan Pangan Tersertifikasi",
+        "qualityDesc": "PT Fish Modern Success memiliki sertifikasi resmi yang menunjukkan komitmen kami terhadap standar tertinggi dalam kontrol kualitas, keamanan pangan, dan praktik berkelanjutan.",
+        "govCert": {
+            "title": "Tersertifikasi Pemerintah",
+            "desc": "Fasilitas kami terdaftar dan tersertifikasi resmi oleh otoritas pemerintah Indonesia, memastikan kepatuhan terhadap standar nasional dan internasional."
+        },
+        "exportReady": {
+            "title": "Siap Ekspor",
+            "desc": "Semua produk kami memenuhi persyaratan ekspor internasional dan diproses di fasilitas yang mematuhi protokol keamanan pangan global."
+        },
+        "transparent": {
+            "title": "Dokumentasi Transparan",
+            "desc": "Kami menyediakan dokumentasi dan sertifikat lengkap untuk semua produk, memastikan ketertelusuran penuh dan transparansi bagi mitra bisnis kami."
+        },
+        "additionalNote": "Sertifikasi tambahan (HACCP, Halal, FDA, MSC) sedang dalam proses. Dokumentasi lengkap tersedia atas permintaan untuk mitra terdaftar."
+    },
+    "gallery": {
+        "label": "Produk Nyata",
+        "title": "GALERI PRODUK PERIKANAN",
+        "subtitle": "Ini adalah foto-foto asli dari produk kami. Yang Anda lihat adalah yang Anda dapatkan - produk perikanan berkualitas premium dari perairan Indonesia.",
+        "note": "Semua foto diambil dari inventaris dan fasilitas pemrosesan kami yang sebenarnya",
+        "images": {
+            "tuna": {
+                "title": "Tuna Beku Premium - 20kg",
+                "description": "Tuna beku kualitas ekspor dengan label yang tepat"
+            },
+            "snapper": {
+                "title": "Kakap Merah Segar",
+                "description": "Kakap merah grade tinggi siap ekspor"
+            },
+            "grouper": {
+                "title": "Kerapu Premium",
+                "description": "Kerapu segar dalam kontainer siap ekspor"
+            },
+            "parrotfish1": {
+                "title": "Ikan Kakatua Warna-Warni",
+                "description": "Ikan kakatua segar dari perairan Indonesia"
+            },
+            "parrotfish2": {
+                "title": "Koleksi Ikan Kakatua",
+                "description": "Berbagai spesies ikan kakatua premium"
+            },
+            "mixed1": {
+                "title": "Hasil Tangkapan Segar Campuran",
+                "description": "Varietas ikan segar harian"
+            },
+            "mixed2": {
+                "title": "Pilihan Ikan Segar",
+                "description": "Hasil tangkapan kualitas premium"
+            },
+            "deepsea": {
+                "title": "Varietas Ikan Laut",
+                "description": "Hasil tangkapan laut dalam siap diproses"
+            }
+        }
+    },
+    "footer": {
+        "brandDesc": "Memimpin ekspor produk perikanan berkelanjutan. Mengantarkan cita rasa autentik nusantara Indonesia ke pasar global dengan kualitas terbaik.",
+        "contactUs": "Hubungi Kami",
+        "address": "Jl. Ikan Lumba-Lumba, Kel. Mayangan, Probolinggo, Jawa Timur 67218",
+        "explore": "Jelajahi",
+        "links": {
+            "home": "Beranda",
+            "company": "Profil Perusahaan",
+            "catalog": "Katalog Produk",
+            "sustainability": "Keberlanjutan",
+            "news": "Berita & Acara"
+        },
+        "stayConnected": "Tetap Terhubung",
+        "newsletterDesc": "Berlangganan untuk wawasan pasar dan pembaruan harga.",
+        "emailPlaceholder": "Alamat Email",
+        "copyright": "Hak Cipta Dilindungi"
+    },
+    "assistant": {
+        "greeting": "Halo! Saya Asisten AI PT Fish Modern Success. Tanyakan kepada saya tentang tuna beku kami, logistik pengiriman, atau ketersediaan produk.",
+        "title": "Export Assistant",
+        "placeholder": "Tanya tentang spesifikasi Tuna...",
+        "processing": "Memproses pertanyaan..."
+    },
+    "cta": {
+        "title": "SIAP MENGEMBANGKAN BISNIS PERIKANAN ANDA?",
+        "description": "Bermitra dengan pemasok paling terpercaya di Indonesia. Kami memastikan pasokan konsisten, kualitas premium, dan harga kompetitif untuk pasar Anda.",
+        "button": "Minta Penawaran"
+    },
+    "language": {
+        "select": "Bahasa",
+        "id": "Indonesia",
+        "en": "English",
+        "ja": "日本語"
+    }
+}
