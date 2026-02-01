@@ -7,7 +7,6 @@ import { About } from "@/components/About";
 import { Products } from "@/components/Products";
 import { Gallery } from "@/components/Gallery";
 import { Certificates } from "@/components/Certificates";
-import { GeminiAssistant } from "@/components/GeminiAssistant";
 import { Footer } from "@/components/Footer";
 import { CallToAction } from "@/components/CallToAction";
 import { OrderForm } from "@/components/OrderForm";
@@ -36,7 +35,6 @@ export default async function Home({ params }: Props) {
                 <OrderForm />
             </main>
             <Footer />
-            <GeminiAssistant />
             <FloatingWhatsApp />
         </div>
     );
