@@ -13,11 +13,11 @@ export const Hero: React.FC = () => {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/img/WhatsApp Image 2026-01-27 at 16.11.31.jpeg"
-          alt="Fresh Seafood Catch"
-          className="w-full h-full object-cover opacity-30"
+          src="/img/ikankakapmerah.jpeg"
+          alt="Fresh Red Snapper"
+          className="w-full h-full object-cover opacity-40"
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-brand-dark via-brand-dark/90 to-transparent"></div>
+        <div className="absolute inset-0 bg-gradient-to-r from-brand-dark via-brand-dark/80 to-transparent"></div>
       </div>
 
       {/* Diagonal Accent Shape (Like reference) */}
