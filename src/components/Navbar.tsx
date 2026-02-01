@@ -36,6 +36,7 @@ export const Navbar: React.FC = () => {
     { code: 'id', name: 'Indonesia', flag: '🇮🇩' },
     { code: 'en', name: 'English', flag: '🇬🇧' },
     { code: 'ja', name: '日本語', flag: '🇯🇵' },
+    { code: 'zh', name: '中文', flag: '🇨🇳' },
   ];
 
   const currentLang = languages.find(l => l.code === locale) || languages[0];

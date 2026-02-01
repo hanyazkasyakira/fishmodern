@@ -1,0 +1,299 @@
+{
+    "meta": {
+        "title": "PT Fish Modern Success - 优质海鲜供应商",
+        "description": "印度尼西亚优质海鲜供应商和出口商，专营冷冻金枪鱼、红鲷鱼、石斑鱼及各类出口级海产品。"
+    },
+    "nav": {
+        "home": "首页",
+        "about": "关于我们",
+        "products": "产品",
+        "quality": "质量",
+        "contact": "联系",
+        "getQuote": "获取报价"
+    },
+    "hero": {
+        "welcome": "值得信赖的印尼海鲜出口商",
+        "title1": "优质海鲜出口",
+        "title2": "源自印度尼西亚",
+        "title3": "",
+        "description": "ISO认证冷冻鱼供应商。从印尼海域直达您的市场。稳定品质，具竞争力的价格，可靠的物流。",
+        "ourProducts": "查看产品",
+        "contactUs": "索取报价",
+        "frozenTuna": "优质冷冻金枪鱼",
+        "exportQuality": "出口级品质 - 20公斤",
+        "exportCountries": "出口目的地",
+        "globalLogistics": "全球物流",
+        "wildCaught": "野生捕捞",
+        "marketDriven": "市场导向"
+    },
+    "about": {
+        "label": "关于我们公司",
+        "title1": "我们的服务",
+        "title2": "为您的业务伙伴",
+        "description": "成立于2025年，我们专注于向国际市场出口优质印尼海鲜。我们的承诺：高品质、安全的产品，符合全球贸易标准。",
+        "history": "于2026年正式在印尼政府(AHU)注册，确保完全符合法律和专业的商业运作。",
+        "focus": "我们出口新鲜和冷冻海鲜，专注于质量、及时交付和客户满意度。",
+        "features": {
+            "legal": {
+                "title": "正式许可与值得信赖",
+                "desc": "由AHU机构注册和授权，为商业伙伴提供安全和信任保障。"
+            },
+            "quality": {
+                "title": "专注产品质量",
+                "desc": "严格的原料选择和产品处理，符合渔业出口标准。"
+            },
+            "network": {
+                "title": "强大的供应商网络",
+                "desc": "与当地渔民和供应商直接合作，以保持鱼类的供应和质量。"
+            },
+            "international": {
+                "title": "国际市场导向",
+                "desc": "了解全球市场对出口鱼类贸易的需求和标准。"
+            },
+            "sustainable": {
+                "title": "可持续性承诺",
+                "desc": "支持负责任和可持续的捕鱼实践。"
+            }
+        }
+    },
+    "products": {
+        "label": "我们的产品目录",
+        "title": "优质海鲜",
+        "downloadCatalog": "下载完整目录",
+        "items": {
+            "tuna": {
+                "name": "黄鳍金枪鱼",
+                "category": "冷冻 / 出口级",
+                "description": "优质黄鳍金枪鱼。单独包装和标签。可供国际出口。"
+            },
+            "snapper": {
+                "name": "红鲷鱼",
+                "category": "新鲜捕捞",
+                "description": "高品质红鲷鱼。适合烧烤、蒸煮和油炸。出口质量标准。"
+            },
+            "grouper": {
+                "name": "石斑鱼",
+                "category": "优质级",
+                "description": "新鲜石斑鱼，肉质紧实。在亚洲市场广受欢迎。餐厅级品质。"
+            },
+            "parrotfish": {
+                "name": "鹦鹉鱼",
+                "category": "新鲜品种",
+                "description": "色彩斑斓的鹦鹉鱼。在东南亚美食中很受欢迎。源自印尼海域。"
+            },
+            "mackerel": {
+                "name": "鲭鱼",
+                "category": "新鲜捕捞",
+                "description": "富含omega-3的新鲜鲭鱼。适合烧烤和熏制。稳定的每日供应。"
+            },
+            "coralgrouper": {
+                "name": "珊瑚石斑鱼",
+                "category": "高级活鱼",
+                "description": "高价值珊瑚石斑鱼。在亚洲市场广受追捧。餐厅和酒店级品质。"
+            }
+        }
+    },
+    "vision": {
+        "title": "我们的愿景",
+        "content": "成为领先的印尼海鲜出口商，在全球范围内提供优质产品，同时支持",
+        "highlight": "可持续捕鱼实践和长期合作伙伴关系"
+    },
+    "mission": {
+        "title": "我们的使命",
+        "items": [
+            "提供符合国际食品安全标准的优质海鲜。",
+            "与当地渔民建立公平的合作伙伴关系和可持续实践。",
+            "通过先进的冷链物流确保产品新鲜度。"
+        ]
+    },
+    "stats": {
+        "exportCountries": {
+            "value": "3",
+            "label": "出口国家"
+        },
+        "monthlyVolume": {
+            "value": "30",
+            "label": "月度吨数"
+        },
+        "productVarieties": {
+            "value": "8",
+            "label": "产品品种"
+        },
+        "certifiedSuppliers": {
+            "value": "15",
+            "label": "可信供应商"
+        }
+    },
+    "location": {
+        "title": "我们的位置",
+        "address": "印度尼西亚东爪哇省宝博林戈市马扬岸村海豚路",
+        "postalCode": "邮政编码：67218",
+        "port": "丹戎登巴加港口位置"
+    },
+    "certificates": {
+        "label": "出口合规",
+        "title": "国际贸易认证",
+        "subtitle": "我们的设施和流程符合全球市场的国际食品安全和出口要求。",
+        "officialCert": "出口文件",
+        "clickEnlarge": "点击放大",
+        "viewFull": "查看完整",
+        "download": "下载",
+        "qualityTitle": "全面出口合规与可追溯性",
+        "qualityDesc": "PT Fish Modern Success 为国际海鲜出口保持全面认证。所有产品均按照全球食品安全标准加工，具有完整的可追溯性。",
+        "govCert": {
+            "title": "政府注册出口商",
+            "desc": "获印尼当局许可进行国际海鲜贸易。每次发货都提供所有必要的出口许可证和卫生证书。"
+        },
+        "exportReady": {
+            "title": "符合国际标准",
+            "desc": "产品在符合HACCP原则的设施中加工。清真、FDA和MSC认证正在进行中。当前运营符合所有印尼出口要求。"
+        },
+        "transparent": {
+            "title": "完整文件",
+            "desc": "每次发货包括：卫生证书、原产地证书、装箱单和检验报告。从捕捞到装箱的完整可追溯性。"
+        },
+        "additionalNote": "我们提供您所在国家进口法规所需的所有文件。欢迎注册买家索取样品和检验。"
+    },
+    "gallery": {
+        "label": "真实产品",
+        "title": "海鲜产品图库",
+        "subtitle": "这些是我们产品的真实照片。所见即所得 - 来自印尼海域的优质海鲜产品。",
+        "note": "所有照片均来自我们的实际库存和加工设施",
+        "images": {
+            "tuna": {
+                "title": "优质冷冻金枪鱼 - 20公斤",
+                "description": "带有正确标签的出口级冷冻金枪鱼"
+            },
+            "snapper": {
+                "title": "新鲜红鲷鱼",
+                "description": "可供出口的高级红鲷鱼"
+            },
+            "grouper": {
+                "title": "优质石斑鱼",
+                "description": "待出口容器中的新鲜石斑鱼"
+            },
+            "parrotfish1": {
+                "title": "色彩斑斓的鹦鹉鱼",
+                "description": "来自印尼海域的新鲜鹦鹉鱼"
+            },
+            "parrotfish2": {
+                "title": "鹦鹉鱼系列",
+                "description": "各种优质鹦鹉鱼品种"
+            },
+            "mackerel": {
+                "title": "新鲜鲭鱼",
+                "description": "富含omega-3的优质鲭鱼"
+            },
+            "coralgrouper": {
+                "title": "珊瑚石斑鱼",
+                "description": "高价值优质珊瑚石斑鱼"
+            },
+            "dorang": {
+                "title": "多朗鱼",
+                "description": "新鲜的印尼多朗鱼"
+            }
+        }
+    },
+    "footer": {
+        "brandDesc": "领先的可持续海鲜出口。以最高品质将真正的印尼群岛风味提供给全球市场。",
+        "contactUs": "联系我们",
+        "address": "印尼东爪哇省宝博林戈市马扬岸村海豚路 67218",
+        "explore": "探索",
+        "links": {
+            "home": "首页",
+            "company": "公司简介",
+            "catalog": "产品目录",
+            "sustainability": "可持续性",
+            "news": "新闻与活动"
+        },
+        "stayConnected": "保持联系",
+        "newsletterDesc": "订阅市场洞察和价格更新。",
+        "emailPlaceholder": "电子邮件地址",
+        "copyright": "版权所有"
+    },
+    "assistant": {
+        "greeting": "您好！我是PT Fish Modern Success AI助手。询问我们的冷冻金枪鱼、运输物流或产品供应情况。",
+        "title": "出口助手",
+        "placeholder": "询问金枪鱼规格...",
+        "processing": "正在处理查询..."
+    },
+    "cta": {
+        "title": "准备好拓展您的海鲜业务了吗？",
+        "description": "与印尼最值得信赖的供应商合作。我们确保稳定供应、优质品质和有竞争力的价格。",
+        "button": "索取报价"
+    },
+    "floatingWhatsApp": {
+        "title": "快速联系",
+        "subtitle": "出口咨询",
+        "description": "即时获得批量订单、价格和运输报价的回复。",
+        "button": "开始聊天",
+        "defaultMessage": "您好！我对您的出口海鲜产品感兴趣。"
+    },
+    "orderForm": {
+        "label": "出口咨询",
+        "title": "索取报价",
+        "subtitle": "填写下面的表格，我们的出口团队将在24小时内回复价格和运输选项。",
+        "fields": {
+            "name": "全名",
+            "email": "电子邮件地址",
+            "phone": "电话号码",
+            "product": "产品兴趣",
+            "quantity": "订单数量",
+            "port": "目的港",
+            "message": "附加要求"
+        },
+        "placeholders": {
+            "name": "输入您的全名",
+            "email": "example@email.com",
+            "phone": "+62 xxx xxxx xxxx",
+            "product": "选择产品",
+            "quantity": "例如：5个集装箱（100吨）",
+            "port": "例如：新加坡港、南安普顿港、上海港",
+            "message": "特殊要求、包装要求、交货时间等。"
+        },
+        "products": {
+            "tuna": "冷冻金枪鱼",
+            "snapper": "红鲷鱼",
+            "grouper": "石斑鱼",
+            "parrotfish": "鹦鹉鱼",
+            "mixed": "混合新鲜鱼",
+            "deepsea": "深海鱼",
+            "other": "其他"
+        },
+        "buttons": {
+            "whatsapp": "通过WhatsApp发送",
+            "email": "通过电子邮件发送"
+        },
+        "contact": {
+            "title": "取得联系",
+            "description": "选择最方便您的沟通方式。我们的团队随时准备帮助您解答问题和需求。",
+            "note": "我们将在工作日24小时内回复。"
+        },
+        "whatsapp": {
+            "greeting": "您好，我想询问您的出口产品：",
+            "name": "姓名",
+            "product": "产品",
+            "quantity": "数量",
+            "port": "目的港",
+            "message": "留言"
+        },
+        "email": {
+            "subject": "出口报价请求 - PT Fish Modern Success",
+            "greeting": "尊敬的出口团队，",
+            "name": "姓名",
+            "email": "电子邮件",
+            "phone": "电话",
+            "product": "产品",
+            "quantity": "数量",
+            "port": "目的港",
+            "message": "留言"
+        }
+    },
+    "language": {
+        "select": "语言",
+        "id": "印尼语",
+        "en": "英语",
+        "ja": "日本語",
+        "zh": "中文"
+    }
+}
