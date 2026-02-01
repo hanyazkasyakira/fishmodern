@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState } from 'react';
-import { ShieldCheck, Award, FileCheck, X, Download } from 'lucide-react';
+import { ShieldCheck, Award, FileCheck, X } from 'lucide-react';
 import { useTranslations } from 'next-intl';
 
 export const Certificates: React.FC = () => {
@@ -58,21 +58,13 @@ export const Certificates: React.FC = () => {
                     </div>
                   </div>
 
-                  <div className="mt-3 flex flex-col gap-2">
+                  <div className="mt-3">
                     <button
                       onClick={() => setShowCertificate(true)}
                       className="w-full bg-brand-green text-brand-dark px-4 py-2 font-display font-bold text-xs uppercase tracking-wider hover:bg-brand-dark hover:text-white transition-all border-2 border-brand-green"
                     >
                       {t('viewFull')}
                     </button>
-                    <a
-                      href="/img/surat-sertifikat-41260123350106173 (1)_page-0001.jpg"
-                      download
-                      className="w-full bg-white text-brand-dark px-4 py-2 font-display font-bold text-xs uppercase tracking-wider hover:bg-brand-dark hover:text-white transition-all border-2 border-brand-dark flex items-center justify-center gap-2"
-                    >
-                      <Download size={14} />
-                      {t('download')}
-                    </a>
                   </div>
                 </div>
               </div>

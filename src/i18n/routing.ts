@@ -5,7 +5,7 @@ export const routing = defineRouting({
     locales: ['id', 'en', 'ja'],
 
     // Used when no locale matches
-    defaultLocale: 'id',
+    defaultLocale: 'en',
 
     // Don't show /id in URL for default locale
     localePrefix: 'as-needed'

@@ -12,16 +12,16 @@
         "getQuote": "Get Quote"
     },
     "hero": {
-        "welcome": "Welcome to PT Fish Modern Success",
-        "title1": "WE EXPORT",
-        "title2": "PREMIUM SEAFOOD PRODUCTS",
-        "title3": "WORLDWIDE",
-        "description": "Your trusted partner for high-quality frozen fish products. Sourced from Indonesian waters, delivered worldwide.",
-        "ourProducts": "Our Products",
-        "contactUs": "Contact Us",
+        "welcome": "Trusted Indonesian Seafood Exporter",
+        "title1": "PREMIUM SEAFOOD EXPORTS",
+        "title2": "FROM INDONESIA",
+        "title3": "",
+        "description": "ISO-certified frozen fish supplier. Direct from Indonesian waters to your market. Consistent quality, competitive pricing, reliable logistics.",
+        "ourProducts": "View Products",
+        "contactUs": "Request Quote",
         "frozenTuna": "PREMIUM FROZEN TUNA",
         "exportQuality": "Export Quality - 20kg",
-        "exportCountries": "Export Destination Countries",
+        "exportCountries": "Export Destinations",
         "globalLogistics": "Global Logistics",
         "wildCaught": "Wild Caught",
         "marketDriven": "Market Driven"
@@ -30,9 +30,9 @@
         "label": "About Our Company",
         "title1": "WHAT WE OFFER",
         "title2": "FOR YOUR BUSINESS PARTNERS",
-        "description": "Our company was founded in 2025 with the aim of contributing to the development of fish export trade from Indonesia to international markets. Since our inception, we have been committed to providing high-quality, safe fishery products that meet global trade standards.",
-        "history": "In 2026, the company was officially registered and authorized by the government through the General Legal Administration Agency (AHU), as a form of legality and our commitment to conducting business activities professionally, transparently, and in accordance with applicable regulations.",
-        "focus": "The company's main focus is export fish trade, both fresh and frozen, prioritizing product quality, timely delivery, and customer satisfaction.",
+        "description": "Founded in 2025, we specialize in exporting premium Indonesian seafood to international markets. Our commitment: high-quality, safe products that meet global trade standards.",
+        "history": "Officially registered with the Indonesian government (AHU) in 2026, ensuring full legal compliance and professional business operations.",
+        "focus": "We export fresh and frozen seafood with a focus on quality, timely delivery, and customer satisfaction.",
         "features": {
             "legal": {
                 "title": "Officially Licensed & Trusted",
@@ -62,9 +62,9 @@
         "downloadCatalog": "Download Full Catalog",
         "items": {
             "tuna": {
-                "name": "Frozen Tuna",
-                "category": "Whole Round / Export Grade",
-                "description": "Premium quality frozen tuna. Individually packed and labeled. Ready for international export."
+                "name": "Yellow Fin Tuna",
+                "category": "Frozen / Export Grade",
+                "description": "Premium quality yellow fin tuna. Individually packed and labeled. Ready for international export."
             },
             "snapper": {
                 "name": "Red Snapper",
@@ -81,31 +81,48 @@
                 "category": "Fresh Variety",
                 "description": "Colorful parrotfish. Popular in Southeast Asian cuisine. Fresh from Indonesian waters."
             },
-            "mixed": {
-                "name": "Mixed Fresh Fish",
-                "category": "Daily Supply",
-                "description": "Various types of fresh fish. Perfect for distributors and wholesalers. Consistent daily supply."
+            "mackerel": {
+                "name": "Mackerel",
+                "category": "Fresh Caught",
+                "description": "Fresh mackerel rich in omega-3. Popular for grilling and smoking. Consistent daily supply."
             },
-            "deepsea": {
-                "name": "Deep Sea Fish",
-                "category": "Frozen Stock",
-                "description": "Deep sea fish with excellent meat quality. Ideal for international markets and processing."
+            "coralgrouper": {
+                "name": "Coral Grouper",
+                "category": "Premium Live Fish",
+                "description": "High-value coral grouper. Highly sought after in Asian markets. Restaurant and hotel quality."
             }
         }
     },
     "vision": {
         "title": "Our Vision",
-        "content": "To become a trusted and globally competitive company that excels, innovates, and operates professionally in providing quality products—especially in trade and fisheries—sustainably, transparently, and oriented towards",
-        "highlight": "customer satisfaction and long-term value creation for business partners and the economy"
+        "content": "To be the leading Indonesian seafood exporter, delivering premium quality products globally while supporting",
+        "highlight": "sustainable fishing practices and long-term partnerships"
     },
     "mission": {
         "title": "Our Mission",
         "items": [
-            "Provide premium quality fishery products that meet international food safety standards.",
-            "Support local fishermen through fair partnerships and sustainable development programs.",
-            "Implement responsible fishing methods to preserve marine ecosystems.",
-            "Continuously innovate in cold-chain logistics to ensure maximum freshness."
+            "Deliver premium seafood that meets international food safety standards.",
+            "Build fair partnerships with local fishermen and sustainable practices.",
+            "Ensure product freshness through advanced cold-chain logistics."
         ]
+    },
+    "stats": {
+        "exportCountries": {
+            "value": "3",
+            "label": "Export Countries"
+        },
+        "monthlyVolume": {
+            "value": "30",
+            "label": "Tons Monthly"
+        },
+        "productVarieties": {
+            "value": "8",
+            "label": "Product Varieties"
+        },
+        "certifiedSuppliers": {
+            "value": "15",
+            "label": "Trusted Suppliers"
+        }
     },
     "location": {
         "title": "Our Location",
@@ -114,28 +131,28 @@
         "port": "Tanjung Tembaga Port Location"
     },
     "certificates": {
-        "label": "Quality Assurance",
-        "title": "Official Certifications",
-        "subtitle": "We are committed to maintaining the highest quality and food safety standards in all our operations.",
-        "officialCert": "OFFICIAL CERTIFICATION",
+        "label": "Export Compliance",
+        "title": "Certified for International Trade",
+        "subtitle": "Our facilities and processes meet international food safety and export requirements for global markets.",
+        "officialCert": "EXPORT DOCUMENTATION",
         "clickEnlarge": "Click to Enlarge",
         "viewFull": "View Full",
         "download": "Download",
-        "qualityTitle": "Certified Quality & Food Safety",
-        "qualityDesc": "PT Fish Modern Success holds official certifications demonstrating our commitment to the highest standards in quality control, food safety, and sustainable practices.",
+        "qualityTitle": "Full Export Compliance & Traceability",
+        "qualityDesc": "PT Fish Modern Success maintains comprehensive certification for international seafood exports. All products are processed according to global food safety standards with complete traceability.",
         "govCert": {
-            "title": "Government Certified",
-            "desc": "Our facilities are officially registered and certified by Indonesian government authorities, ensuring compliance with national and international standards."
+            "title": "Government Registered Exporter",
+            "desc": "Licensed by Indonesian authorities for international seafood trade. All necessary export permits and health certificates provided with each shipment."
         },
         "exportReady": {
-            "title": "Export Ready",
-            "desc": "All our products meet international export requirements and are processed at facilities compliant with global food safety protocols."
+            "title": "International Standards Ready",
+            "desc": "Products processed in facilities compliant with HACCP principles. Halal, FDA, and MSC certifications in progress. Current operations meet all Indonesian export requirements."
         },
         "transparent": {
-            "title": "Transparent Documentation",
-            "desc": "We provide complete documentation and certificates for all products, ensuring full traceability and transparency for our business partners."
+            "title": "Complete Documentation",
+            "desc": "Every shipment includes: Health certificates, origin certificates, packing lists, and inspection reports. Full traceability from catch to container."
         },
-        "additionalNote": "Additional certifications (HACCP, Halal, FDA, MSC) are in process. Complete documentation available upon request for registered partners."
+        "additionalNote": "We provide all documentation required by your country's import regulations. Samples and inspection welcomed for registered buyers."
     },
     "gallery": {
         "label": "Real Products",
@@ -163,17 +180,17 @@
                 "title": "Parrotfish Collection",
                 "description": "Various premium parrotfish species"
             },
-            "mixed1": {
-                "title": "Mixed Fresh Catch",
-                "description": "Daily variety of fresh fish"
+            "mackerel": {
+                "title": "Fresh Mackerel",
+                "description": "Premium quality mackerel rich in omega-3"
             },
-            "mixed2": {
-                "title": "Fresh Fish Selection",
-                "description": "Premium quality catch"
+            "coralgrouper": {
+                "title": "Coral Grouper",
+                "description": "High-value premium coral grouper"
             },
-            "deepsea": {
-                "title": "Deep Sea Fish Variety",
-                "description": "Deep sea catch ready for processing"
+            "dorang": {
+                "title": "Dorang Fish",
+                "description": "Fresh Indonesian dorang fish"
             }
         }
     },
@@ -204,6 +221,73 @@
         "title": "READY TO GROW YOUR SEAFOOD BUSINESS?",
         "description": "Partner with Indonesia's most trusted supplier. We ensure consistent supply, premium quality, and competitive prices for your market.",
         "button": "Request Quote"
+    },
+    "floatingWhatsApp": {
+        "title": "Quick Contact",
+        "subtitle": "Export Inquiries",
+        "description": "Get instant response for bulk orders, pricing, and shipping quotes.",
+        "button": "Start Chat",
+        "defaultMessage": "Hello! I'm interested in your seafood products for export."
+    },
+    "orderForm": {
+        "label": "Export Inquiry",
+        "title": "REQUEST A QUOTE",
+        "subtitle": "Fill out the form below and our export team will respond within 24 hours with pricing and shipping options.",
+        "fields": {
+            "name": "Full Name",
+            "email": "Email Address",
+            "phone": "Phone Number",
+            "product": "Product Interest",
+            "quantity": "Order Quantity",
+            "port": "Port of Destination",
+            "message": "Additional Requirements"
+        },
+        "placeholders": {
+            "name": "Enter your full name",
+            "email": "example@email.com",
+            "phone": "+62 xxx xxxx xxxx",
+            "product": "Select a product",
+            "quantity": "Example: 5 containers (100 tons)",
+            "port": "Example: Port of Singapore, Southampton, Shanghai",
+            "message": "Special requests, packaging requirements, delivery timeline, etc."
+        },
+        "products": {
+            "tuna": "Frozen Tuna",
+            "snapper": "Red Snapper",
+            "grouper": "Grouper",
+            "parrotfish": "Parrotfish",
+            "mixed": "Mixed Fresh Fish",
+            "deepsea": "Deep Sea Fish",
+            "other": "Other"
+        },
+        "buttons": {
+            "whatsapp": "Send via WhatsApp",
+            "email": "Send via Email"
+        },
+        "contact": {
+            "title": "Get In Touch",
+            "description": "Choose the most convenient communication method for you. Our team is ready to help with your questions and needs.",
+            "note": "We will respond within 24 hours on business days."
+        },
+        "whatsapp": {
+            "greeting": "Hello, I would like to inquire about your export products:",
+            "name": "Name",
+            "product": "Product",
+            "quantity": "Quantity",
+            "port": "Port of Destination",
+            "message": "Message"
+        },
+        "email": {
+            "subject": "Export Quote Request - PT Fish Modern Success",
+            "greeting": "Dear Export Team,",
+            "name": "Name",
+            "email": "Email",
+            "phone": "Phone",
+            "product": "Product",
+            "quantity": "Quantity",
+            "port": "Port of Destination",
+            "message": "Message"
+        }
     },
     "language": {
         "select": "Language",

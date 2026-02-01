@@ -14,42 +14,42 @@ export const Products: React.FC = () => {
       name: t('items.tuna.name'),
       category: t('items.tuna.category'),
       description: t('items.tuna.description'),
-      image: "/img/WhatsApp Image 2026-301-27 at 16.11.28.jpeg"
+      image: "/img/tunasiripkuning.jpeg"
     },
     {
       id: 2,
       name: t('items.snapper.name'),
       category: t('items.snapper.category'),
       description: t('items.snapper.description'),
-      image: "/img/WhatsApp Image 2026-01-27 at 16.11.27.jpeg"
+      image: "/img/ikankakapmerah.jpeg"
     },
     {
       id: 3,
       name: t('items.grouper.name'),
       category: t('items.grouper.category'),
       description: t('items.grouper.description'),
-      image: "/img/WhatsApp Image 2026-01-27 at5 16.11.24.jpeg"
+      image: "/img/ikankerapusuno.jpeg"
     },
     {
       id: 4,
       name: t('items.parrotfish.name'),
       category: t('items.parrotfish.category'),
       description: t('items.parrotfish.description'),
-      image: "/img/WhatsApp Image 2026-01-27 at 16.11.28.jpeg"
+      image: "/img/ikankakatua.jpeg"
     },
     {
       id: 5,
-      name: t('items.mixed.name'),
-      category: t('items.mixed.category'),
-      description: t('items.mixed.description'),
-      image: "/img/WhatsApp Image 2026-01-27 at 16.11.31.jpeg"
+      name: t('items.mackerel.name'),
+      category: t('items.mackerel.category'),
+      description: t('items.mackerel.description'),
+      image: "/img/makarel1 (1).jpeg"
     },
     {
       id: 6,
-      name: t('items.deepsea.name'),
-      category: t('items.deepsea.category'),
-      description: t('items.deepsea.description'),
-      image: "/img/WhatsApp Image 20201-27 at 16.11.31.jpeg"
+      name: t('items.coralgrouper.name'),
+      category: t('items.coralgrouper.category'),
+      description: t('items.coralgrouper.description'),
+      image: "/img/ikanterapukarang.jpeg"
     }
   ];
 

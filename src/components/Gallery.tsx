@@ -10,44 +10,44 @@ export const Gallery: React.FC = () => {
 
   const images = [
     {
-      src: "/img/WhatsApp Image 2026-301-27 at 16.11.28.jpeg",
+      src: "/img/tunasiripkuning.jpeg",
       title: t('images.tuna.title'),
       description: t('images.tuna.description')
     },
     {
-      src: "/img/WhatsApp Image 2026-01-27 at 16.11.27.jpeg",
+      src: "/img/ikankakapmerah.jpeg",
       title: t('images.snapper.title'),
       description: t('images.snapper.description')
     },
     {
-      src: "/img/WhatsApp Image 2026-01-27 at5 16.11.24.jpeg",
+      src: "/img/ikankerapusuno.jpeg",
       title: t('images.grouper.title'),
       description: t('images.grouper.description')
     },
     {
-      src: "/img/WhatsApp Image 2026-01-274 at 16.11.26.jpeg",
+      src: "/img/ikankakatua.jpeg",
       title: t('images.parrotfish1.title'),
       description: t('images.parrotfish1.description')
     },
     {
-      src: "/img/WhatsApp Image 2026-01-27 at 16.11.28.jpeg",
+      src: "/img/kakatua2.jpeg",
       title: t('images.parrotfish2.title'),
       description: t('images.parrotfish2.description')
     },
     {
-      src: "/img/WhatsApp Image 2026-01-27 at 165.11.27.jpeg",
-      title: t('images.mixed1.title'),
-      description: t('images.mixed1.description')
+      src: "/img/makarel1 (1).jpeg",
+      title: t('images.mackerel.title'),
+      description: t('images.mackerel.description')
     },
     {
-      src: "/img/WhatsApp Image 2026-01-27 at 16.11.31.jpeg",
-      title: t('images.mixed2.title'),
-      description: t('images.mixed2.description')
+      src: "/img/ikanterapukarang.jpeg",
+      title: t('images.coralgrouper.title'),
+      description: t('images.coralgrouper.description')
     },
     {
-      src: "/img/WhatsApp Image 20201-27 at 16.11.31.jpeg",
-      title: t('images.deepsea.title'),
-      description: t('images.deepsea.description')
+      src: "/img/ikandorang.jpeg",
+      title: t('images.dorang.title'),
+      description: t('images.dorang.description')
     }
   ];
 

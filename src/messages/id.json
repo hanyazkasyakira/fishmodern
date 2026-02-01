@@ -12,13 +12,13 @@
         "getQuote": "Get Quote"
     },
     "hero": {
-        "welcome": "Selamat Datang di PT Fish Modern Success",
-        "title1": "KAMI EKSPOR",
-        "title2": "PRODUK PERIKANAN PREMIUM",
-        "title3": "KE SELURUH DUNIA",
-        "description": "Mitra terpercaya untuk produk ikan beku berkualitas tinggi. Bersumber dari perairan Indonesia, dikirim ke seluruh dunia.",
-        "ourProducts": "Produk Kami",
-        "contactUs": "Hubungi Kami",
+        "welcome": "Eksportir Seafood Indonesia Terpercaya",
+        "title1": "EKSPOR SEAFOOD PREMIUM",
+        "title2": "DARI INDONESIA",
+        "title3": "",
+        "description": "Pemasok ikan beku tersertifikasi ISO. Langsung dari perairan Indonesia ke pasar Anda. Kualitas konsisten, harga kompetitif, logistik andal.",
+        "ourProducts": "Lihat Produk",
+        "contactUs": "Minta Penawaran",
         "frozenTuna": "TUNA BEKU PREMIUM",
         "exportQuality": "Kualitas Ekspor - 20kg",
         "exportCountries": "Negara Tujuan Ekspor",
@@ -30,9 +30,9 @@
         "label": "Tentang Perusahaan Kami",
         "title1": "APA YANG KAMI TAWARKAN",
         "title2": "UNTUK MITRA BISNIS ANDA",
-        "description": "Perusahaan kami didirikan pada tahun 2025 dengan tujuan untuk berkontribusi dalam pengembangan perdagangan ikan ekspor dari Indonesia ke pasar internasional. Sejak awal berdiri, kami berkomitmen untuk menghadirkan produk perikanan yang berkualitas tinggi, aman, dan memenuhi standar perdagangan global.",
-        "history": "Pada tahun 2026, perusahaan secara resmi terdaftar dan disahkan oleh pemerintah melalui Badan Administrasi Hukum Umum (AHU), sebagai bentuk legalitas dan komitmen kami dalam menjalankan kegiatan usaha secara profesional, transparan, dan sesuai dengan peraturan yang berlaku.",
-        "focus": "Fokus utama perusahaan adalah perdagangan ikan ekspor, baik dalam bentuk segar maupun beku, dengan mengutamakan kualitas produk, ketepatan waktu pengiriman, serta kepuasan pelanggan.",
+        "description": "Didirikan tahun 2025, kami fokus mengekspor seafood premium Indonesia ke pasar internasional. Komitmen kami: produk berkualitas tinggi, aman, dan memenuhi standar perdagangan global.",
+        "history": "Terdaftar resmi di pemerintah Indonesia (AHU) tahun 2026, menjamin kepatuhan hukum penuh dan operasi bisnis profesional.",
+        "focus": "Kami mengekspor seafood segar dan beku dengan fokus pada kualitas, ketepatan pengiriman, dan kepuasan pelanggan.",
         "features": {
             "legal": {
                 "title": "Legalitas Resmi & Terpercaya",
@@ -62,9 +62,9 @@
         "downloadCatalog": "Download Full Catalog",
         "items": {
             "tuna": {
-                "name": "Tuna Beku",
-                "category": "Whole Round / Grade Ekspor",
-                "description": "Tuna beku kualitas premium. Dikemas dan diberi label individual. Siap untuk ekspor internasional."
+                "name": "Tuna Sirip Kuning",
+                "category": "Beku / Kualitas Ekspor",
+                "description": "Tuna sirip kuning berkualitas premium. Dikemas individual dan berlabel. Siap ekspor internasional."
             },
             "snapper": {
                 "name": "Kakap Merah",
@@ -81,31 +81,48 @@
                 "category": "Varietas Segar",
                 "description": "Ikan kakatua warna-warni. Populer dalam masakan Asia Tenggara. Segar dari perairan Indonesia."
             },
-            "mixed": {
-                "name": "Ikan Segar Campuran",
-                "category": "Pasokan Harian",
-                "description": "Berbagai jenis ikan segar. Sempurna untuk distributor dan pedagang besar. Pasokan harian konsisten."
+            "mackerel": {
+                "name": "Ikan Makarel",
+                "category": "Tangkapan Segar",
+                "description": "Makarel segar kaya omega-3. Populer untuk dibakar dan diasap. Pasokan harian konsisten."
             },
-            "deepsea": {
-                "name": "Ikan Laut Dalam",
-                "category": "Stok Beku",
-                "description": "Ikan laut dalam dengan kualitas daging sangat baik. Ideal untuk pasar internasional dan pemrosesan."
+            "coralgrouper": {
+                "name": "Kerapu Karang",
+                "category": "Ikan Hidup Premium",
+                "description": "Kerapu karang bernilai tinggi. Sangat diminati di pasar Asia. Kualitas restoran dan hotel."
             }
         }
     },
     "vision": {
         "title": "Visi Kami",
-        "content": "Menjadi perusahaan terpercaya dan berdaya saing global yang unggul, inovatif, dan profesional dalam menyediakan produk berkualitas—khususnya di bidang perdagangan dan perikanan—secara berkelanjutan, transparan, serta berorientasi pada",
-        "highlight": "kepuasan pelanggan dan penciptaan nilai jangka panjang bagi mitra usaha dan perekonomian"
+        "content": "Menjadi eksportir seafood Indonesia terdepan yang menghadirkan produk premium berkualitas global sambil mendukung",
+        "highlight": "praktik perikanan berkelanjutan dan kemitraan jangka panjang"
     },
     "mission": {
         "title": "Misi Kami",
         "items": [
-            "Menyediakan produk perikanan berkualitas premium yang memenuhi standar keamanan pangan internasional.",
-            "Mendukung nelayan lokal melalui kemitraan yang adil dan program pengembangan berkelanjutan.",
-            "Menerapkan metode penangkapan ikan yang bertanggung jawab untuk menjaga ekosistem laut.",
-            "Berinovasi secara terus-menerus dalam logistik cold-chain untuk menjamin kesegaran maksimal."
+            "Menghadirkan seafood premium yang memenuhi standar keamanan pangan internasional.",
+            "Membangun kemitraan adil dengan nelayan lokal dan praktik berkelanjutan.",
+            "Menjamin kesegaran produk melalui logistik cold-chain yang canggih."
         ]
+    },
+    "stats": {
+        "exportCountries": {
+            "value": "3",
+            "label": "Negara Tujuan Ekspor"
+        },
+        "monthlyVolume": {
+            "value": "30",
+            "label": "Ton Per Bulan"
+        },
+        "productVarieties": {
+            "value": "8",
+            "label": "Varietas Produk"
+        },
+        "certifiedSuppliers": {
+            "value": "15",
+            "label": "Supplier Terpercaya"
+        }
     },
     "location": {
         "title": "Lokasi Kami",
@@ -114,28 +131,28 @@
         "port": "Lokasi Pelabuhan Tanjung Tembaga"
     },
     "certificates": {
-        "label": "Jaminan Kualitas",
-        "title": "Sertifikasi Resmi",
-        "subtitle": "Kami berkomitmen untuk menjaga standar kualitas dan keamanan pangan tertinggi dalam semua operasi kami.",
-        "officialCert": "SERTIFIKASI RESMI",
+        "label": "Kepatuhan Ekspor",
+        "title": "Tersertifikasi untuk Perdagangan Internasional",
+        "subtitle": "Fasilitas dan proses kami memenuhi standar keamanan pangan internasional dan persyaratan ekspor untuk pasar global.",
+        "officialCert": "DOKUMENTASI EKSPOR",
         "clickEnlarge": "Click to Enlarge",
         "viewFull": "Lihat Penuh",
         "download": "Unduh",
-        "qualityTitle": "Kualitas & Keamanan Pangan Tersertifikasi",
-        "qualityDesc": "PT Fish Modern Success memiliki sertifikasi resmi yang menunjukkan komitmen kami terhadap standar tertinggi dalam kontrol kualitas, keamanan pangan, dan praktik berkelanjutan.",
+        "qualityTitle": "Kepatuhan Ekspor Penuh & Ketertelusuran",
+        "qualityDesc": "PT Fish Modern Success memiliki sertifikasi komprehensif untuk ekspor seafood internasional. Semua produk diproses sesuai standar keamanan pangan global dengan ketertelusuran lengkap.",
         "govCert": {
-            "title": "Tersertifikasi Pemerintah",
-            "desc": "Fasilitas kami terdaftar dan tersertifikasi resmi oleh otoritas pemerintah Indonesia, memastikan kepatuhan terhadap standar nasional dan internasional."
+            "title": "Eksportir Terdaftar Pemerintah",
+            "desc": "Dilisensikan oleh otoritas Indonesia untuk perdagangan seafood internasional. Semua izin ekspor dan sertifikat kesehatan disediakan untuk setiap pengiriman."
         },
         "exportReady": {
-            "title": "Siap Ekspor",
-            "desc": "Semua produk kami memenuhi persyaratan ekspor internasional dan diproses di fasilitas yang mematuhi protokol keamanan pangan global."
+            "title": "Siap Standar Internasional",
+            "desc": "Produk diproses di fasilitas yang mematuhi prinsip HACCP. Sertifikasi Halal, FDA, dan MSC sedang dalam proses. Operasi saat ini memenuhi semua persyaratan ekspor Indonesia."
         },
         "transparent": {
-            "title": "Dokumentasi Transparan",
-            "desc": "Kami menyediakan dokumentasi dan sertifikat lengkap untuk semua produk, memastikan ketertelusuran penuh dan transparansi bagi mitra bisnis kami."
+            "title": "Dokumentasi Lengkap",
+            "desc": "Setiap pengiriman termasuk: Sertifikat kesehatan, sertifikat asal, packing list, dan laporan inspeksi. Ketertelusuran penuh dari tangkapan hingga kontainer."
         },
-        "additionalNote": "Sertifikasi tambahan (HACCP, Halal, FDA, MSC) sedang dalam proses. Dokumentasi lengkap tersedia atas permintaan untuk mitra terdaftar."
+        "additionalNote": "Kami menyediakan semua dokumentasi yang diperlukan oleh peraturan impor negara Anda. Sampel dan inspeksi dipersilakan untuk pembeli terdaftar."
     },
     "gallery": {
         "label": "Produk Nyata",
@@ -163,17 +180,17 @@
                 "title": "Koleksi Ikan Kakatua",
                 "description": "Berbagai spesies ikan kakatua premium"
             },
-            "mixed1": {
-                "title": "Hasil Tangkapan Segar Campuran",
-                "description": "Varietas ikan segar harian"
+            "mackerel": {
+                "title": "Ikan Makarel Segar",
+                "description": "Makarel berkualitas premium kaya omega-3"
             },
-            "mixed2": {
-                "title": "Pilihan Ikan Segar",
-                "description": "Hasil tangkapan kualitas premium"
+            "coralgrouper": {
+                "title": "Kerapu Karang",
+                "description": "Kerapu karang premium bernilai tinggi"
             },
-            "deepsea": {
-                "title": "Varietas Ikan Laut",
-                "description": "Hasil tangkapan laut dalam siap diproses"
+            "dorang": {
+                "title": "Ikan Dorang",
+                "description": "Ikan dorang segar Indonesia"
             }
         }
     },
@@ -204,6 +221,73 @@
         "title": "SIAP MENGEMBANGKAN BISNIS PERIKANAN ANDA?",
         "description": "Bermitra dengan pemasok paling terpercaya di Indonesia. Kami memastikan pasokan konsisten, kualitas premium, dan harga kompetitif untuk pasar Anda.",
         "button": "Minta Penawaran"
+    },
+    "floatingWhatsApp": {
+        "title": "Kontak Cepat",
+        "subtitle": "Pertanyaan Ekspor",
+        "description": "Dapatkan respons instan untuk pesanan besar, harga, dan penawaran pengiriman.",
+        "button": "Mulai Chat",
+        "defaultMessage": "Halo! Saya tertarik dengan produk seafood Anda untuk ekspor."
+    },
+    "orderForm": {
+        "label": "Hubungi Kami",
+        "title": "FORM PEMESANAN",
+        "subtitle": "Tertarik dengan produk kami? Isi formulir di bawah ini dan hubungi kami melalui WhatsApp atau Email.",
+        "fields": {
+            "name": "Nama Lengkap",
+            "email": "Alamat Email",
+            "phone": "Nomor Telepon",
+            "product": "Produk yang Diminati",
+            "quantity": "Jumlah Pesanan",
+            "port": "Pelabuhan Tujuan",
+            "message": "Persyaratan Tambahan"
+        },
+        "placeholders": {
+            "name": "Masukkan nama lengkap Anda",
+            "email": "contoh@email.com",
+            "phone": "+62 xxx xxxx xxxx",
+            "product": "Pilih produk",
+            "quantity": "Contoh: 5 kontainer (100 ton)",
+            "port": "Contoh: Pelabuhan Singapore, Southampton, Shanghai",
+            "message": "Permintaan khusus, persyaratan pengemasan, timeline pengiriman, dll."
+        },
+        "products": {
+            "tuna": "Tuna Beku",
+            "snapper": "Kakap Merah",
+            "grouper": "Kerapu",
+            "parrotfish": "Ikan Kakatua",
+            "mixed": "Ikan Segar Campuran",
+            "deepsea": "Ikan Laut Dalam",
+            "other": "Lainnya"
+        },
+        "buttons": {
+            "whatsapp": "Kirim via WhatsApp",
+            "email": "Kirim via Email"
+        },
+        "contact": {
+            "title": "Hubungi Kami",
+            "description": "Pilih metode komunikasi yang paling nyaman untuk Anda. Tim kami siap membantu pertanyaan dan kebutuhan Anda.",
+            "note": "Kami akan merespons dalam waktu 24 jam pada hari kerja."
+        },
+        "whatsapp": {
+            "greeting": "Halo, saya ingin menanyakan tentang produk ekspor Anda:",
+            "name": "Nama",
+            "product": "Produk",
+            "quantity": "Jumlah",
+            "port": "Pelabuhan Tujuan",
+            "message": "Pesan"
+        },
+        "email": {
+            "subject": "Permintaan Penawaran Ekspor - PT Fish Modern Success",
+            "greeting": "Tim Ekspor yang Terhormat,",
+            "name": "Nama",
+            "email": "Email",
+            "phone": "Telepon",
+            "product": "Produk",
+            "quantity": "Jumlah",
+            "port": "Pelabuhan Tujuan",
+            "message": "Pesan"
+        }
     },
     "language": {
         "select": "Bahasa",

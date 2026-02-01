@@ -12,7 +12,6 @@ export const VisionMission: React.FC = () => {
         tMission('items.0'),
         tMission('items.1'),
         tMission('items.2'),
-        tMission('items.3'),
     ];
 
     return (

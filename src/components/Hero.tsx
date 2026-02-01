@@ -37,8 +37,7 @@ export const Hero: React.FC = () => {
             {t('title1')} <br />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-brand-green to-white">
               {t('title2')}
-            </span> <br />
-            {t('title3')}
+            </span>
           </h1>
 
           <p className="text-gray-400 text-lg mb-10 max-w-lg leading-relaxed">
@@ -46,14 +45,14 @@ export const Hero: React.FC = () => {
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4">
-            <a href="#products" className="group bg-brand-green text-brand-dark px-8 py-4 font-display font-bold text-lg uppercase tracking-wider hover:bg-white transition-all transform -skew-x-12 inline-flex items-center justify-center">
+            <a href="#order" className="group bg-brand-green text-brand-dark px-10 py-5 font-display font-bold text-xl uppercase tracking-wider hover:bg-white transition-all transform -skew-x-12 inline-flex items-center justify-center shadow-2xl">
               <span className="skew-x-12 flex items-center gap-2">
-                {t('ourProducts')} <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
+                {t('contactUs')} <ArrowRight className="w-6 h-6 group-hover:translate-x-1 transition-transform" />
               </span>
             </a>
-            <a href="#contact" className="group border-2 border-white text-white px-8 py-4 font-display font-bold text-lg uppercase tracking-wider hover:bg-white hover:text-brand-dark transition-all transform -skew-x-12 inline-flex items-center justify-center">
+            <a href="#products" className="group border-2 border-white text-white px-8 py-4 font-display font-bold text-lg uppercase tracking-wider hover:bg-white hover:text-brand-dark transition-all transform -skew-x-12 inline-flex items-center justify-center">
               <span className="skew-x-12">
-                {t('contactUs')}
+                {t('ourProducts')}
               </span>
             </a>
           </div>
@@ -66,14 +65,10 @@ export const Hero: React.FC = () => {
             <div className="absolute top-10 right-10 w-3/4 h-3/4 bg-gray-800 transform rotate-3"></div>
             <div className="absolute top-0 right-0 w-3/4 h-3/4 bg-white/5 transform -rotate-3 backdrop-blur-sm border border-white/10 z-10 flex flex-col justify-end p-8">
               <img
-                src="/img/WhatsApp Image 2026-301-27 at 16.11.28.jpeg"
-                alt="Premium Frozen Tuna"
+                src="/img/makarel1 (1).jpeg"
+                alt="Premium Fresh Mackerel"
                 className="absolute inset-0 w-full h-full object-cover opacity-80 hover:opacity-100 transition-opacity duration-500"
               />
-              <div className="relative z-20 bg-brand-dark/90 p-4 border-l-4 border-brand-green">
-                <p className="text-white font-display font-bold text-xl">{t('frozenTuna')}</p>
-                <p className="text-brand-green text-sm uppercase tracking-wider">{t('exportQuality')}</p>
-              </div>
             </div>
 
             {/* Floating stats */}
