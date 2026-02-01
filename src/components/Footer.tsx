@@ -25,7 +25,7 @@ export const Footer: React.FC = () => {
           <div className="space-y-6">
             <div className="flex items-center gap-3 mb-4">
               <img
-                src="/logoabang.svg"
+                src="/logo.svg"
                 alt="PT Fish Modern Success Logo"
                 className="h-12 w-auto"
               />

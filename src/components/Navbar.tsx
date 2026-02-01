@@ -50,7 +50,7 @@ export const Navbar: React.FC = () => {
       <div className="container mx-auto px-6 flex justify-between items-center">
         <div className="flex items-center gap-3">
           <img
-            src="/logoabang.svg"
+            src="/logo.svg"
             alt="PT Fish Modern Success Logo"
             className="h-12 w-auto"
           />
@@ -137,8 +137,8 @@ export const Navbar: React.FC = () => {
                       setIsMobileMenuOpen(false);
                     }}
                     className={`px-4 py-2 rounded-lg flex items-center gap-2 transition-colors ${locale === lang.code
-                        ? 'bg-brand-green text-brand-dark'
-                        : 'bg-gray-800 text-white hover:bg-gray-700'
+                      ? 'bg-brand-green text-brand-dark'
+                      : 'bg-gray-800 text-white hover:bg-gray-700'
                       }`}
                   >
                     <span>{lang.flag}</span>
